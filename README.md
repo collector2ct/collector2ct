@@ -1,16 +1,13 @@
-## Hi there 👋
+## 🚀 Crypto Enthusiast & Blockchain Validator
 
-<!--
-**collector2ct/collector2ct** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍💻 **Building decentralized solutions, automating systems, and securing networks.**
 
-Here are some ideas to get you started:
+### 💻 Tech Stack:
+- **Languages**: Rust, Solidity, Python, Golang
+- **Skills**: Linux Admin 🐧, Node Management 🖥️, Blockchain Technologies 🔗
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔍 Current Focus:
+- Blockchain tech, cryptography, and system automation
+
+### 📚 Fun Fact:
+- Always learning new things | Validator on multiple chains
